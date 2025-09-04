@@ -30,6 +30,3 @@ cd hue-artnet-bridge
 pip install -r requirements.txt
 
 
-If requirements.txt is missing, install manually:
-```bash
-pip install hue-entertainment-pykit
