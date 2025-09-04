@@ -28,3 +28,8 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/hue-artnet-bridge.git
 cd hue-artnet-bridge
 pip install -r requirements.txt
+
+
+If requirements.txt is missing, install manually:
+```bash
+pip install hue-entertainment-pykit
