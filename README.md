@@ -1,6 +1,3 @@
-# hue-artnet-bridge
-Bridge Art-Net DMX to Philips Hue Entertainment API for real-time lighting control.
-
 # Hue Art-Net Bridge
 
 A Python bridge that listens for **Art-Net (DMX over IP)** packets and maps them to **Philips Hue Entertainment** lights in real time.  
